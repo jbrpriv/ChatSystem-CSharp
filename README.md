@@ -1,12 +1,12 @@
 
-ChatApp C#
+##ChatApp C#
 
-Author  
+##Author  
 Abdul Jabbar — LinkedIn: https://www.linkedin.com/in/abdul-jabbar-52b75631b/
 
 ----------------------------------------
 
-Overview
+##Overview
 
 ChatApp C# is a modern Windows Forms-based chat application featuring:
 - TCP server-client architecture
@@ -17,7 +17,7 @@ ChatApp C# is a modern Windows Forms-based chat application featuring:
 
 ----------------------------------------
 
-How to Set Up
+##How to Set Up
 
 1. Clone and Open
 - Clone the repository to your local machine
@@ -42,7 +42,7 @@ How to Set Up
 
 ----------------------------------------
 
-How to Run
+##How to Run
 
 1. Start the Server
    - Run the Server project in Visual Studio
@@ -63,14 +63,14 @@ How to Run
 6. Chat
    - Once the other user confirms, both users can begin chatting in real-time
 
-Tips:
+##Tips:
 - Allow both Server and Client through the firewall
 - Ensure both apps are on the same network
 - For remote use, configure port forwarding appropriately
 
 ----------------------------------------
 
-Features
+##Features
 
 - Multi-threaded server handles:
   - Login and signup validation
@@ -89,7 +89,7 @@ Features
 
 ----------------------------------------
 
-Screenshots
+##Screenshots
 
 (These are saved under the images/ folder)
 
@@ -100,7 +100,7 @@ Screenshots
 
 ----------------------------------------
 
-Project Structure
+##Project Structure
 
 ChatApp-CSharp/
 ├── Server/
