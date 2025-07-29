@@ -24,7 +24,7 @@
 - Open the solution in **Visual Studio**
 
 ### 2. MySQL Configuration
-- Run the SQL file named [`mysqlConfiguration.sql`](mysqlConfiguration.sql) included in the project root
+- Run the SQL file named [`mysqlConfiguration.sql`]'mysqlConfiguration.sql' included in the project root
   - It will automatically create the required **database** and **tables**
 - Ensure your MySQL server is running and accessible
 
