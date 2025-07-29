@@ -40,7 +40,7 @@ A modern C# Windows Forms chat application with:
 ### 👥 Client Interface
 ![Client Screenshot](images/client.PNG)
 
-### 🎨 Discord-Inspired UI
+### 🎨 UI
 ![UI Screenshot](images/UI.PNG)
 
 
