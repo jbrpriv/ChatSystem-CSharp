@@ -23,7 +23,7 @@ A modern C# Windows Forms chat application with:
    - Open the main `.cs` file (usually `Program.cs` or `Form1.cs`)
    - Find the line where the IP is defined (e.g., `IPAddress.Parse("192.168.x.x")`)
    - **Change the IP to your own local IP address** (e.g., `192.168.0.5`)
-     ![IP Screenshot](IP.png)
+     ![IP Screenshot](images/IP.PNG)
 3. **Save** all files.
 4. **Build and run** the Server first, then the Client.
 
@@ -35,13 +35,13 @@ A modern C# Windows Forms chat application with:
 ## 📸 Screenshots
 
 ### 🔌 Server Interface
-![Server Screenshot](server.png)
+![Server Screenshot](images/server.PNG)
 
 ### 👥 Client Interface
-![Client Screenshot](client.png)
+![Client Screenshot](images/client.PNG)
 
 ### 🎨 Discord-Inspired UI
-![UI Screenshot](ui.png)
+![UI Screenshot](images/UI.PNG)
 
 
 
